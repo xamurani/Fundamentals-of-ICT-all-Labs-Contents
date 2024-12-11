@@ -1,0 +1,27 @@
+body{
+background-image: url('images.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+border-style: dotted;
+}
+h1 {
+  color: white;
+  text-align: center; 
+}
+p {
+  font-size: 18px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+table
+{
+  height: 200px;
+  width: 600px;
+}
+h1.dotted {border-style: dotted;}
